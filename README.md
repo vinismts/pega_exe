@@ -1,1 +1,1 @@
-"ObtÇm diret¢rio dos execut†veis do sistema, atravÇs do arquivo de configuraá∆o obtido pelos argumentos do atalho do sistema." 
+"Obt√©m diret√≥rio dos execut¬†veis do sistema, atrav√©s do arquivo de configura√ß√£oo obtido pelos argumentos do atalho do sistema." 
